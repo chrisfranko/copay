@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.bitpay.copay" 
+<widget id="com.franko.frkpay" 
   version="0.9.7"
   android-versionCode="26"
   ios-CFBundleVersion="0.9.7">
@@ -7,7 +7,7 @@
     <description>
       A secure bitcoin wallet for friends and companies.
     </description>
-    <author email="support@bitpay.com" href="https://copay.io">
+    <author email="support@frankos.org" href="https://frankos.org">
         BitPay Inc.
     </author>
     <content src="index.html" />
@@ -23,7 +23,7 @@
     <preference name="BackupWebStorage" value="none"/>
     <preference name="windows-target-version" value="8.1"/>
     <feature name="App">
-      <param name="android-package" value="com.bitpay.copay" />
+      <param name="android-package" value="com.franko.frkpay" />
     </feature>
     <feature name="WebIntent">
       <param name="android-package" value="com.borismus.webintent.WebIntent" />
